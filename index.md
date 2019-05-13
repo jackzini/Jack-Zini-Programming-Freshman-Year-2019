@@ -9,4 +9,4 @@ Link to Calculator Code:
 https://github.com/jackzini/Jack-Zini-Programming-Freshman-Year-2019/tree/master/Calc/Calculator%20Code
 
 # SpaceShip Game
-![SpaceShip](https://github.com/jackzini/Jack-Zini-Programming-Freshman-Year-2019/blob/master/Spaceship.png?raw=true)
+![SpaceShip](https://github.com/jackzini/Jack-Zini-Programming-Freshman-Year-2019/blob/master/SpaceShipGame/Spaceship.png?raw=true)
