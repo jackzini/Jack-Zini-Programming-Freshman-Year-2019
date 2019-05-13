@@ -11,4 +11,4 @@ https://github.com/jackzini/Jack-Zini-Programming-Freshman-Year-2019/tree/master
 # Space Ship Game
 ![SpaceShip](https://github.com/jackzini/Jack-Zini-Programming-Freshman-Year-2019/blob/master/SpaceShipGame/Spaceship.png?raw=true)
 
-Link to Space Ship Game Code
+Link to Space Ship Game Code:
